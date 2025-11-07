@@ -73,5 +73,3 @@ C:\python310\Lib\site-packages 경로에 모듈(.py) 혹은 폴더(패키지) qh
 30.클래스(static)  
 
 ----------
-천동현
-김한솔
